@@ -23,11 +23,6 @@ This theory provides a framework to predict and understand the interactions and 
 Our interdisciplinary team comprises experts in genomics, immunology, cell biology, and evolutionary biology. We are committed to developing innovative methodologies and fostering a collaborative research environment to advance the understanding of microchimerism.
 
 ## Contact
-For more information or collaboration inquiries, please contact us at: [contact@microchimerism.info](mailto:contact@microchimerism.info).
+For more information or collaboration inquiries, please contact us at: [contact@microchimerism.info](mailto:contact@microchimerism.info) or
 
-## References
-- Haig, D. (1993). Genetic conflicts in human pregnancy. *The Quarterly Review of Biology*, 68(4), 495–532.
-- Haig, D. (2014). Does microchimerism mediate kin conflicts? *Chimerism*, 5(2).
-- Trivers, R. L. (1974). Parent-Offspring Conflict. *American Zoologist*, 14(1), 249–264.
-
-Visit our website for more detailed information: [Microchimerism Research Project](https://www.microchimerism.info)
+visit our website for more detailed information: [Microchimerism Research Project](https://www.microchimerism.info)
