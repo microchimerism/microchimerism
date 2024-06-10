@@ -23,6 +23,6 @@ This theory provides a framework to predict and understand the interactions and 
 Our interdisciplinary team comprises experts in genomics, immunology, cell biology, and evolutionary biology. We are committed to developing innovative methodologies and fostering a collaborative research environment to advance the understanding of microchimerism.
 
 ## Contact
-For more information or collaboration inquiries, please contact us at: [contact@microchimerism.info](mailto:contact@microchimerism.info) or
+For more information or collaboration inquiries, please contact us at: [contact@microchimerism.info](mailto:contact@microchimerism.info).
 
-visit our website for more detailed information: [Microchimerism Research Project](https://www.microchimerism.info)
+Or visit our website for more detailed information: [Microchimerism Research Project](https://www.microchimerism.info)
