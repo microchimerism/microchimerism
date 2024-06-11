@@ -16,9 +16,6 @@ Our project aims to:
 ## Approach
 We utilize evolutionary theory and systems biology to study microchimerism. This approach helps us understand the evolutionary benefits and trade-offs of microchimerism, such as enhanced reproductive success and survival versus potential conflicts over resource allocation between mother and fetus.
 
-## Maternal-Fetal Conflict Theory
-This theory provides a framework to predict and understand the interactions and conflicts between maternal and fetal cells. It suggests that while both parties have aligned interests in survival, they may also experience conflicts over resources, which can influence health outcomes.
-
 ## Research and Collaboration
 Our interdisciplinary team comprises experts in genomics, immunology, cell biology, and evolutionary biology. We are committed to developing innovative methodologies and fostering a collaborative research environment to advance the understanding of microchimerism.
 
