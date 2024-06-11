@@ -1,4 +1,4 @@
-# Microchimerism Research Project
+# Microchimerism Research
 
 ## Introduction
 Welcome to the Microchimerism Research Project. Our work is dedicated to exploring the fascinating phenomenon of microchimerism, where cells from one individual exist within another genetically distinct individual. This phenomenon has significant implications for human health, evolution, and disease.
