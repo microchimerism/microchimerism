@@ -22,4 +22,7 @@ Our interdisciplinary team comprises experts in genomics, immunology, cell biolo
 ## Contact
 For more information or collaboration inquiries, please contact us at: [contact@microchimerism.info](mailto:contact@microchimerism.info).
 
+## Funding
+This work is funded by grant #62214 from the [John Templeton Foundation] (https://www.templeton.org/).
+
 Or visit our website for more detailed information: [Microchimerism Research Project](https://www.microchimerism.info)
